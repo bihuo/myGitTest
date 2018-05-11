@@ -1,2 +1,2 @@
 # myGitTest
-hey everyone! test the git
+hey everyone! 
